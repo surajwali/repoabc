@@ -1,2 +1,3 @@
 echo "heloo"
-echo "hhhh"
+cd /var/lib/jenkins/
+touch s1
